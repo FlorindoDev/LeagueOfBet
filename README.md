@@ -5,7 +5,7 @@ Questo bot è uno dei miei primi progetti realizzati durante il quinto anno di s
 
 Permette di:
 - Ogni utente aveva un proprio profilo con "essenze blu" (monete virtuali) e un proprio livello. Il livello aumentava se vincevi la scommessa.
-- Vedere in diretta i rank di tutti i player, il campione utilizzato da ogni player e il minutaggio della partita.
+- Vedere in tempo reale i ranks di tutti i players, il campione utilizzato da ogni player e il minutaggio della partita.
 - Avere più schedine in un singolo momento.
 
 
