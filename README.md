@@ -4,7 +4,7 @@
 Questo bot è uno dei miei primi progetti realizzati durante il quinto anno di scuola superiore. Utilizza le API di League of Legends per ottenere dati in tempo reale dalle partite, permettendo di scommettere su queste partite con soldi virtuali. Inoltre, impiega un database non relazionale (MongoDB) per memorizzare informazioni rilevanti degli utenti che utilizzano il bot. Questo progetto non sarà più seguito, quindi da un certo momento in poi potrebbe smettere di funzionare.
 
 Permette di:
-- Ogni utente aveva un proprio profilo con "essenze blu" (monete virtuali) e un proprio livello. Il livello aumentava se vincevi la scommessa.
+- Ogni utente ha un proprio profilo con "essenze blu" (monete virtuali) e un proprio livello. Il livello aumentava se vincevi la scommessa.
 - Vedere in tempo reale i ranks di tutti i players, il campione utilizzato da ogni player e il minutaggio della partita.
 - Avere più schedine in un singolo momento.
 
